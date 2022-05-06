@@ -4,3 +4,5 @@ Displays each Pokemon’s name, art, attacks, and, number by using React framewo
 the database.
 
 More functions in progress...
+
+![pokemon](/pokemon.png?raw=true "pokemon")
