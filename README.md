@@ -1,2 +1,3 @@
 # React-GraphQL-PokemonV2-App
  
+More functions in progress...
